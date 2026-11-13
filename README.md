@@ -214,3 +214,7 @@ After a run, check `found_*.png` to confirm that every board in every shot was o
 - The sample shots are 8-bit lossy WebP. Raw detector output should do better, especially in dark areas.
 - The flat-field model assumes one brightness pattern shared by all shots.
 - The seed box is drawn by hand, once per panel.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
